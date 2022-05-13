@@ -4,5 +4,5 @@
 
 ### GIT이란?
 
-👉 pull test
+👉 pull test22
 
