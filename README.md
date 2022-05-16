@@ -141,7 +141,7 @@
 
     작업내역 임시 저장 - stash
 
-<br/><br/>
+<br/>
 
 ### 2) Git 프로젝트 관리 - 협업 매너
 
@@ -151,12 +151,14 @@
      
      다른사람에게 프로젝트 소개하는 방법 - README
 
-<br/><br/>
+<br/>
 
 ### 3) 오픈소스로 정보탐색 및 참여
     github에서 참고하기 좋은 코드, 기술 트랜드 정보 얻기 - github exprore
 
     오픈소스 - 오픈소스(open source)
+
+<br/>
 
 ### 4) Github로 개발자인 나를 나타내자 - 포토폴리오
 
@@ -170,6 +172,8 @@
 
 ## PR(Pull Request)
 
+### 설명)
+
 내 작업내역을 바로 merge하지 않고, 참여하고 있는 프로젝트에 
 <span style="color:tomato">**내 작업내역(branch)를 merge해달라고 요청(Request)를 먼저 보내는 것**</span>이다. 
 
@@ -182,5 +186,10 @@
 이렇게 리뷰 후 작업을 최종 반영하면, 프로젝트 퀄리티가 놓아진다.<br>
 기본적으로 프로젝트 품질을 관리하는 **회사**나, 여러 사람들이 참여하는 **오픈소스**에서는 작업 내역을 반영하기 위해 <span style="color:tomato">**PR 후 merge하는 과정**</span>을 거친다.
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F03f8b856-6f99-46da-8435-115ead6c5a3a%2F3week.003.jpeg?table=block&id=40bdb70b-9d05-43e3-9dd5-b2da1bf5efac&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1530&userId=&cache=v2)
+
+<br/>
+
+사용) <br/>
+github페이지에서 PR날림.
 
 
