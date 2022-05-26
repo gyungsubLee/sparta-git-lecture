@@ -192,4 +192,17 @@
 사용) <br/>
 github페이지에서 PR날림.
 
+## 협업을 위한 매너
+
+1. 작업으로 의사소통하기
+
+1-1) commit으로 소통하기 - commit 메세지, 단위 
+
+각 조직마다 commit 메세지 컨벤션(commit message convention)이 있다.
+
+조직(특정 기술을 사용하는 사람들, 회사 등)에서 합의한 규칙을 ```convention(컨벤션)```이라 한다.
+
+https://meetup.toast.com/posts/106
+
+
 
